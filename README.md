@@ -1,4 +1,4 @@
-# Vehicle-Telemetry-Dashboard-2025-
+# Vehicle-Telemetry-Dashboard-2025
 
 # Vehicle Telemetry Analytics Project 🚗📊
 
